@@ -1,0 +1,15 @@
+{
+  "name": "todos",
+  "version": "0.0.0",
+  "description": "A simple todo-list",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
